@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/igor-popov-dev/hexlet-project-brain-games/issues"
   },
-  "homepage": "https://github.com/igor-popov-dev/hexlet-project-brain-games#readme"
+  "homepage": "https://github.com/igor-popov-dev/hexlet-project-brain-games#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
